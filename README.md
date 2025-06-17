@@ -26,7 +26,7 @@ AWS_REGION='ap-south-1'
 Usage
 Start the Flask application:
 python app.py
-Open a web browser and navigate to http://localhost:5000
+Open a web browser and navigate and
 
 Enter the smartphone specifications in the form:
 
