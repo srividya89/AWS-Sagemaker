@@ -16,6 +16,13 @@ ML Model Deployment: AWS SageMaker
 Prerequisites
 AWS Account with appropriate credentials
 Boto3 library
+scikit-learn
+joblib
+numpy
+pandas
+sagemaker
+argparse
+ipykernel
 Flask Installation
 pip install flask boto3
 Configure AWS credentials
